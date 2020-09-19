@@ -40,3 +40,13 @@
 * Agile
 * GTD
 * Teamwork
+
+## My projects
+* [Study site about countries **[HTML5, CSS3]**](https://github.com/chernataly2020/towns_of_europe)
+* [Internet-based system of trade in goods Electrotechnical Plant named. V.I. Kozlova **[HTML5, CSS3]**](https//github.com/chernataly2020/Internet-system)
+* [Internet showcase for the closed joint stock company "Trubchevsky jersey" **[HTML5, CSS3]**](https://github.com/chernataly2020/Internet-showcase)
+* [Car dealership for the car salon. **[C#]**](https://github.com/chernataly2020/car-showroom)
+* [School meals **[C#, SQL Server]**](https://github.com/chernataly2020/School-feeding)
+* [Web application using the high-level programming language C # using Microsoft Visual Studio tools. **[C#, ASP_NET]**](https://github.com/chernataly2020/Studio)
+* [Working with XML documents **[C#, XML]**](https://github.com/chernataly2020/Work-with-XML-documents)
+* [Educational task. Accounting for tools in the warehouse. **[Java]**](https://github.com/chernataly2020/Instruments)
