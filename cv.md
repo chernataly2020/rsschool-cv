@@ -6,3 +6,26 @@
 
 ## My goal
 *I am an experienced software developer. I have been working in the IT field since 1989. <br />I like to master and use new directions of IT development in my work.*
+
+## Work experience
+### IT-teacher 
+#### Communal institution of general secondary education І-ІІІ steps №8 of Zheltovodsky city council
+*November 2015 - up to now | Ukraine*
+* teaching students the basics of information technology;
+* preparation of prize-winners of city, regional Olympiads and competitions in the nominations "Information Technologies" and "Programming";
+* organization of scientific expeditions for schoolchildren in cooperation with specialists of the Minor Academy of Sciences of Ukraine.
+### Head of information technology laboratory, teacher-programmer, teacher of computer science
+#### Lyceum of Natural Science Education
+*September 2001 - February 2011 | Ukraine*
+* teaching students the basics of information technology;
+* preparation of winners of city, regional, All-Ukrainian Olympiads and competitions in the nominations "Information Technologies" and "Programming".
+### Software developer 
+#### Freelance
+*February 2011 - up to now*
+* software development according to customer requirements;
+* so far more than 500 projects have been completed.
+### Engineer of the Computer Laboratory, Lecturer at the Department of Information and Communication Technologies 
+#### Institute of Entrepreneurship "Strategy"
+*February 1997 - August 2001 | Ukraine*
+* software development according to customer requirements;
+* so far more than 500 projects have been completed.
