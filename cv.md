@@ -50,3 +50,24 @@
 * [Web application using the high-level programming language C # using Microsoft Visual Studio tools. **[C#, ASP_NET]**](https://github.com/chernataly2020/Studio)
 * [Working with XML documents **[C#, XML]**](https://github.com/chernataly2020/Work-with-XML-documents)
 * [Educational task. Accounting for tools in the warehouse. **[Java]**](https://github.com/chernataly2020/Instruments)
+
+## Internship
+### Computer science teacher
+#### Center for Nuclear Research, CERN, Geneva, Switzerland
+*December 2016*
+* Scientific internship at the Center for Nuclear Research, CERN
+* Internship is confirmed by a certificate
+### Computer science teacher
+#### Epam
+June - August 2020
+* UKRAINIAN TEACHERS INTERSHIP Online
+* Internship is confirmed by [a certificate](https://epa.ms/283)
+## Education
+### Engineer-economist-programmer
+#### State Metallurgical Academy of Ukraine, Dnepropetrovsk, daytime education
+#### **Specialization** - *"Information systems in management"*
+*September 1991 - June 1996*
+
+## English
+* B1
+
