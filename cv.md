@@ -29,3 +29,14 @@
 *February 1997 - August 2001 | Ukraine*
 * software development according to customer requirements;
 * so far more than 500 projects have been completed.
+## Tech Skills
+* C#, C++, PHP
+* CSS3, HTML5
+* Bootstrap 4
+* JS
+* MS SQL Server, MySQL
+## Soft Skills
+* Scrum
+* Agile
+* GTD
+* Teamwork
