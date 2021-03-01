@@ -1,6 +1,6 @@
 * {
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
     box-sizing: border-box;
 }
 
@@ -14,7 +14,7 @@ body {
     display: flex;
     max-width: 1250px;
     background: white;
-    margin: 0 auto;
+
     box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
 }
 
@@ -24,13 +24,32 @@ body {
     padding-top: 40px;
     padding-bottom: 40px;
 }
+.footer {
+    background-color: #2f5285;
+    max-width: 1250px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer-wrapper{
+    display: flex;
+    justify-content: center;
+}
+.footer_link{
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    font-size: 18px;
+}
+.logo{
+    width: 50px;
+}
 
 .foto {
-    border-radius: 100px;
+    /* border-radius: 100px;*/
     /* Радиус скругления */
     box-shadow: 0 0 7px #666666;
     /* Параметры тени */
-    margin-left: 80px;
+    margin-left: 55px;
     margin-top: 40px;
 }
 
@@ -230,7 +249,8 @@ a:hover {
 }
 
 .education,
-.internship {
+.internship,
+.work_experience {
     margin-top: 55px;
 }
 
