@@ -62,6 +62,10 @@
 *June - August 2020*
 * UKRAINIAN TEACHERS INTERSHIP Online
 * Internship is confirmed by [a certificate](https://epa.ms/283)
+#### Front-end/JavaScript training (RS School)
+*September 2020 - February 2021*
+The training is dedicated to modern approaches, technologies and tools to develop web applications using JavaScript programming language [a certificate](https://app.rs.school/certificate/xphmuzqw).
+
 #### IT Nation
 *April - September 2020*
 * Training in the areas:
@@ -70,8 +74,9 @@
 * Automation QA Engeener>
 * Manual QA engineer
 * DIGITAL SKILLS
-
-                </div>
+* Participation in a bootcamp on solving problems of increased complexity [a certificate](https://drive.google.com/file/d/1PBD78GV9dDBBNuFM8yyeaOuDkNaxUc_h/view)
+* Winning the IT Nation - 2020 hackathon [a certificate] (https://drive.google.com/file/d/10Syft_gkY9lKf-mYl2hSxKBWVMUMKnxQ/view)
+)
 ## Education
 ### Engineer-economist-programmer
 #### State Metallurgical Academy of Ukraine, Dnepropetrovsk, daytime education
