@@ -59,9 +59,19 @@
 * Internship is confirmed by a certificate
 ### Computer science teacher
 #### Epam
-June - August 2020
+*June - August 2020*
 * UKRAINIAN TEACHERS INTERSHIP Online
 * Internship is confirmed by [a certificate](https://epa.ms/283)
+#### IT Nation
+*April - September 2020*
+* Training in the areas:
+* Advanced Frontend WEB DEVELOPER
+* WEB DEVELOPER
+* Automation QA Engeener>
+* Manual QA engineer
+* DIGITAL SKILLS
+
+                </div>
 ## Education
 ### Engineer-economist-programmer
 #### State Metallurgical Academy of Ukraine, Dnepropetrovsk, daytime education
