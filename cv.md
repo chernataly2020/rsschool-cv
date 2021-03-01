@@ -57,7 +57,7 @@
 *December 2016*
 * Scientific internship at the Center for Nuclear Research, CERN
 * Internship is confirmed by a certificate
-* 
+
 ### Computer science teacher
 #### Epam
 *June - August 2020*
@@ -68,8 +68,8 @@
 * The training is devoted to modern approaches, technologies and tools to develop web applications using JavaScript programming language
 [a certificate](https://app.rs.school/certificate/xphmuzqw)
 #### IT Nation
-* Training in the areas of
 *April - September 2020*
+* Training in the areas of:
 * Advanced Frontend WEB DEVELOPER
 * WEB DEVELOPER</span>
 * Automation QA Engeener
@@ -77,7 +77,7 @@
 * DIGITAL SKILLS
 * participation in a bootcamp on solving problems of increased complexity  [a certificate](https://drive.google.com/file/d/1PBD78GV9dDBBNuFM8yyeaOuDkNaxUc_h/view)
 * Winning the IT Nation - 2020 hackathon  [a certificate](https://drive.google.com/file/d/10Syft_gkY9lKf-mYl2hSxKBWVMUMKnxQ/view)
-* 
+
 ## Education
 ### Engineer-economist-programmer
 #### State Metallurgical Academy of Ukraine, Dnepropetrovsk, daytime education
@@ -86,4 +86,3 @@
 
 ## English
 * B1
-
