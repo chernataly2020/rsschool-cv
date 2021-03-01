@@ -75,7 +75,7 @@ The training is dedicated to modern approaches, technologies and tools to develo
 * Manual QA engineer
 * DIGITAL SKILLS
 * Participation in a bootcamp on solving problems of increased complexity [a certificate](https://drive.google.com/file/d/1PBD78GV9dDBBNuFM8yyeaOuDkNaxUc_h/view)
-* Winning the IT Nation - 2020 hackathon [a certificate] (https://drive.google.com/file/d/10Syft_gkY9lKf-mYl2hSxKBWVMUMKnxQ/view)
+* Winning the IT Nation - 2020 hackathon [a certificate](https://drive.google.com/file/d/10Syft_gkY9lKf-mYl2hSxKBWVMUMKnxQ/view)
 )
 ## Education
 ### Engineer-economist-programmer
