@@ -1,1 +1,1 @@
-https://chernataly2020.github.io/rsschool-cv/
+https://chernataly2020.github.io/rsschool-cv/cv
